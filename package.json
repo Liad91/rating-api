@@ -1,12 +1,12 @@
 {
-  "name": "techdegree-fullstackjs-course-review-rest-api",
+  "name": "rating-api",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
   "scripts": {
     "start": "nodemon ./src/index.js localhost 5000"
   },
-  "author": "",
+  "author": "Liad Idan",
   "license": "ISC",
   "devDependencies": {
     "mongoose-seeder": "^1.2.1",
